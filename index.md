@@ -24,9 +24,9 @@ My rankings of SD Cafes for studying:
 
 ![Haworthia](imgs/haworthia1.jpg)
 
-![Haworthia2](imgs/haworthia2.png)
+![Haworthia2](imgs/haworthia2.jpg)
 
-![Lithops](imgs/lithops.png)
+![Lithops](imgs/lithops.jpg)
 
 [Full Setup](imgs/PlantStand.png)
 
